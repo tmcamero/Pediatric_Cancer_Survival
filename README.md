@@ -15,7 +15,7 @@ README.md
 a. Overview Document detailing repository contents
 
 youth_cancer.xlxs
-top_cancer.xlxs
+top_cancers.xlxs
 
 a. Excel files for project created using SEER*Stat Software
 
